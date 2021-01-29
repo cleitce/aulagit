@@ -1,0 +1,11 @@
+# excluir arquivos individuais
+# apoio.lib
+
+# excluir tudo que for lib
+# *.lib
+
+# excluir classes deixando apenas código fonte
+# *.class
+
+# excluir pastas inteiras
+lib/
