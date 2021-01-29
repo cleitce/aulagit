@@ -1,4 +1,4 @@
-linha1
+linha1 newfeature
 linha2
 linha3
 Uma nova linha
